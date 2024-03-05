@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning.**
 
-- 💬 Ask me about **cpp, Data structures, MERN.**
+- 💬 Ask me about **CPP, Data structures, MERN.**
 
 - 📫 How to reach me **abhinaygoud2004@gmail.com**
 
