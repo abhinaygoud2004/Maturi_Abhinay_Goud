@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maturi Abhinay Goud</h1>
-<h3 align="center">Passionate Computer Science Enthusiast exploring the realms of code and technology with a curious mind and a love for problem-solving. 💻✨</h3>
+<h3 align="center">Computer Science enthusiast, coding with passion for innovation. 💻✨</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinaygoud2004&label=Profile%20views&color=0e75b6&style=flat" alt="abhinaygoud2004" /> </p>
 
