@@ -15,7 +15,7 @@
 - [GitHub](https://github.com/abhinaygoud2004)
 - [Portfolio](https://www.linkedin.com/in/maturi-abhinay-goud-86b599231/)
 
-### Codeing Profiles
+### Coding Profiles
 - [HackerRank](https://www.hackerrank.com/profile/abhinaygoud2004)
 - [LeetCode](https://leetcode.com/abhinaygoud2004/)
 - [CodeChef](https://www.codechef.com/users/abhinay_04)
