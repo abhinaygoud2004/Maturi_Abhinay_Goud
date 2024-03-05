@@ -7,10 +7,8 @@
 
 - 💬 Ask me about **CPP, Data structures, MERN.**
 
-- 📫 How to reach me **abhinaygoud2004@gmail.com**
-
 ### Connect with me
-
+- [Gmail](abhinaygoud2004@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/maturi-abhinay-goud-86b599231/)
 - [GitHub](https://github.com/abhinaygoud2004)
 - [Portfolio](https://www.linkedin.com/in/maturi-abhinay-goud-86b599231/)
