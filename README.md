@@ -11,13 +11,13 @@
 
 ### Connect with me
 
-- [Linkedin](https://www.linkedin.com/in/iamssuraj/)
+- [Linkedin](https://www.linkedin.com/in/maturi-abhinay-goud-86b599231/)
 - [GitHub](https://github.com/abhinaygoud2004)
 - [Portfolio](https://www.linkedin.com/in/maturi-abhinay-goud-86b599231/)
 
 ### Links to My Profiles on various Coding Platforms
 - [HackerRank](https://www.hackerrank.com/profile/abhinaygoud2004)
-- [LeetCode](https://leetcode.com/abhhinaygoud2004/)
+- [LeetCode](https://leetcode.com/abhinaygoud2004/)
 - [CodeChef](https://www.codechef.com/users/abhinay_04)
 - [Codeforces](https://codeforces.com/profile/Abhinay_2004)
 <h3 align="left">Languages and Tools:</h3>
